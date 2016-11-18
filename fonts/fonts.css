@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Glacial-Indifference';
+  font-style: normal;
+  src: local('GlacialIndifference-Regular'), url(./GlacialIndifference-Regular.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'Glacial-Indifference-Bold';
+  font-style: normal;
+  src: local('GlacialIndifference-Bold'), url(./GlacialIndifference-Bold.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'Glacial-Indifference-Italic';
+  font-style: normal;
+  src: local('GlacialIndifference-Italic'), url(./GlacialIndifference-Italic.otf) format('opentype');
+}
