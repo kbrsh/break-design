@@ -1,3 +1,4 @@
+/* Top Level */
 html {
   background: #121212 no-repeat center center fixed;
 }
@@ -11,6 +12,7 @@ h1, h2, h3, h4, h5, h6, p {
   font-family: "Glacial-Indifference", sans-serif;
 }
 
+/* Top Header */
 .top-header {
   margin-top: 5rem;
 }
@@ -26,3 +28,5 @@ h1, h2, h3, h4, h5, h6, p {
 .theme-color {
   color: #FC5D7C;
 }
+
+/* Hero */
