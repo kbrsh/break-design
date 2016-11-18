@@ -14,11 +14,16 @@ h1, h2, h3, h4, h5, h6, p {
 
 /* Top Header */
 #logo {
+  position: absolute;
+  top: 50px;
   height: 90px;
+  left: 50px;
 }
 
 #logo-text {
-  float: right;
+  position: absolute;
+  top: 50px;
+  right: 50px;
 }
 
 .theme-color {
