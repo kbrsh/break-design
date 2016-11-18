@@ -14,6 +14,10 @@ body {
   height: 100px;
 }
 
+#logo-text {
+  float: right;
+}
+
 .theme-color {
   color: #FC5D7C;
 }
