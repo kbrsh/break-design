@@ -2,6 +2,10 @@ html {
   background: #121212 no-repeat center center fixed;
 }
 
+body {
+  font-family: "Glacial-Indifference";
+}
+
 .top-header {
   margin-top: 5rem;
 }
