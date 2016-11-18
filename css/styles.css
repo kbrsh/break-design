@@ -1,3 +1,11 @@
 html {
   background: #121212 no-repeat center center fixed;
 }
+
+.top-header {
+  margin-top: 5rem;
+}
+
+#logo {
+  height: 100px;
+}
