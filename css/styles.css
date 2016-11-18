@@ -8,14 +8,16 @@ body {
 
 .top-header {
   margin-top: 5rem;
+  color: #f5f5f5;
 }
 
 #logo {
-  height: 100px;
+  height: 90px;
 }
 
 #logo-text {
   float: right;
+  font-family: "Glacial-Indifference", sans-serif;
 }
 
 .theme-color {
