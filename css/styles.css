@@ -13,17 +13,22 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 /* Top Header */
-#logo {
+
+.top-header {
   position: absolute;
+  left: 0;
+  right: 0;
   top: 50px;
-  height: 90px;
-  left: 50px;
 }
 
-#logo-text {
-  position: absolute;
-  top: 50px;
-  right: 50px;
+.top-header .container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+#logo {
+  height: 85px;
 }
 
 .theme-color {
