@@ -4,11 +4,11 @@ html {
 
 body {
   font-family: "Glacial-Indifference", sans-serif;
+  color: #f5f5f5;
 }
 
 .top-header {
   margin-top: 5rem;
-  color: #f5f5f5;
 }
 
 #logo {
