@@ -84,3 +84,10 @@ h1, h2, h3, h4, h5, h6, p {
     flex: 0 0 100%;
   }
 }
+
+@media screen and (max-width: 650px){
+	.header {
+		font-size: 5rem;
+    max-width: 250px;
+	}
+}
