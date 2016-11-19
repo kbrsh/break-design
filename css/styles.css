@@ -90,4 +90,12 @@ h1, h2, h3, h4, h5, h6, p {
 		font-size: 5rem;
     max-width: 250px;
 	}
+
+  .card-title {
+    font-size: 6rem;
+  }
+
+  .card-description {
+    font-size: 3.5rem;
+  }
 }
