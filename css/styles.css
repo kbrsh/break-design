@@ -1,6 +1,7 @@
 /* Top Level */
 html {
-  background: url(../img/Background.png) no-repeat center center fixed;
+  /*background: url(../img/Background.png) no-repeat center center fixed;*/
+  background: #121212 no-repeat center center fixed;
   background-size: cover;
 }
 
@@ -54,9 +55,11 @@ h1, h2, h3, h4, h5, h6, p {
   justify-content: space-between;
 }
 .card {
-  background: #DDDDDD;
-  margin: 1rem;
-  flex: 2;
+  background: #eeeeee;
+  color: #121212;
+  margin: 2rem;
+  flex: 3;
+  min-height: 300px;
 }
 
 @media screen and (max-width: 768px) {
