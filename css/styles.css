@@ -65,7 +65,7 @@ h1, h2, h3, h4, h5, h6, p {
 .card-link {
   text-decoration: none;
   color: #121212;
-  
+  border-bottom: 2px solid #FC5D7C;
 }
 
 @media screen and (max-width: 768px) {
