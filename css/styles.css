@@ -1,6 +1,7 @@
 /* Top Level */
 html {
-  background: #121212 no-repeat center center fixed;
+  background: url(../img/Background.png) no-repeat center center fixed;
+  background-size: cover;
 }
 
 body {
