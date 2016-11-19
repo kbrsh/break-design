@@ -47,6 +47,20 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 /* Card */
+
+.set {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
 .card {
   background: #DDDDDD;
+  margin: 1rem;
+  flex: 2;
+}
+
+@media screen and (max-width: 768px) {
+  .card {
+    flex: 0 0 100%;
+  }
 }
